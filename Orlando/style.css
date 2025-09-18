@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(208, 208, 210);
+font-family: Palatino Linotype, sans-serif;
+}
+
+p {
+  width: 60%;
+  width: 400px;
+  }
+
+div {
+  border: 1px solid darkgray;
+  width: 320px;
+  padding: 15px;
+  background-color: white;
+  box-shadow: 20px 10px 3px darkgray;
+}
+#Rezension
+{
+width: 300px
+}
